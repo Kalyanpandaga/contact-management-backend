@@ -238,7 +238,3 @@ UserOtp: Handles OTP for password recovery.
      "message": "Contact deleted successfully."
     }
     ```
-
-
-
-
